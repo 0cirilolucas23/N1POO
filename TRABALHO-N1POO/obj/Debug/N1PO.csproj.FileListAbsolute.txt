@@ -1,0 +1,2 @@
+C:\Users\lucas\Desktop\POO\N1POO\TRABALHO-N1POO\obj\Debug\N1PO.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\POO\N1POO\TRABALHO-N1POO\obj\Debug\N1PO.csproj.CoreCompileInputs.cache
