@@ -184,7 +184,7 @@ namespace N1PO
     {
         public int X;
         public int Y;
-        public string Nome = " Minha Casa";
+        public string Nome = " Dia de Sol ";
 
         public override void Desenhar() { }
 
